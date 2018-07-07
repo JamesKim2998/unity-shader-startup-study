@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "Project": true,
+        "BookAttachedResources": true,
+    }
+}

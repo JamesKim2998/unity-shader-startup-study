@@ -61,18 +61,58 @@ Basically there's three ways to write shader using ShaderLab.
 
 [Code](Project/Assets/Ch4)
 
+### BrightDark Shader
+
+![BrightDark Shader](doc/Ch4/BrightDark.gif)
+
 ## Chapter 5: Manipulating Texture with Surface Shader
 
 [Code](Project/Assets/Ch5)
+
+### Grayscale
+
+![Grayscale Shader](doc/Ch5/Grayscale.png)
+
+### Lerp
+
+![Lerp Shader](doc/Ch5/Lerp.png)
 
 ## Chapter 6: Learn How to Use UV
 
 [Code](Project/Assets/Ch6)
 
+### UV
+
+![UV Shader](doc/Ch6/UV.gif)
+
+### Fire
+
+![Fire Shader](doc/Ch6/Fire.gif)
+
+### Fire2
+
+![Fire2 Shader](doc/Ch6/Fire2.gif)
+
 ## Chapter 7: Using Vertex Color
 
 [Code](Project/Assets/Ch7)
 
+### VertexColor
+
+![VertexColor Shader](doc/Ch7/VertexColor.png)
+
 ## Chapter 8: Using StandardOutputShader
 
 [Code](Project/Assets/Ch8)
+
+### StandardOutputShader
+
+![StandardOutputShader Shader](doc/Ch8/StandardOutputShader.gif)
+
+### NormalMap
+
+![NormalMap Shader](doc/Ch8/NormalMap.png)
+
+### VertexColorImproved
+
+![VertexColorImproved Shader](doc/Ch8/VertexColorImproved.gif)
