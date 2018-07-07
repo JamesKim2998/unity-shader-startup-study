@@ -68,3 +68,11 @@ Basically there's three ways to write shader using ShaderLab.
 ## Chapter 6: Learn How to Use UV
 
 [Code](Project/Assets/Ch6)
+
+## Chapter 7: Using Vertex Color
+
+[Code](Project/Assets/Ch7)
+
+## Chapter 8: Using StandardOutputShader
+
+[Code](Project/Assets/Ch8)
