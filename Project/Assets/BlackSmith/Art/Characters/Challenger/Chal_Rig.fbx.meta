@@ -689,7 +689,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
-    tangentImportMode: 4
+    tangentImportMode: 0
     normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0

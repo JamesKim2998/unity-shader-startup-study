@@ -153,6 +153,8 @@ Basically there's three ways to write shader using ShaderLab.
 
 ## Chapter 12: Rim Light
 
+[Code](Project/Assets/Ch12)
+
 ### RimLight
 
 ![RimLight Shader](doc/Ch12/RimLight.gif)
@@ -160,3 +162,15 @@ Basically there's three ways to write shader using ShaderLab.
 ### Hologram
 
 ![Hologram Shader](doc/Ch12/Hologram.gif)
+
+## Chapter 13: Blinn-Phong Specular
+
+[Code](Project/Assets/Ch13)
+
+### BlinnPhongSpecular
+
+![BlinnPhongSpecular Shader](doc/Ch13/BlinnPhongSpecular.gif)
+
+### BlinnPhongSpecularWithRim
+
+![BlinnPhongSpecularWithRim Shader](doc/Ch13/BlinnPhongSpecularWithRim.gif)

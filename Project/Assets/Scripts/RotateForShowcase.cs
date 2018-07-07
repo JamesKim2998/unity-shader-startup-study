@@ -27,6 +27,8 @@ public class RotateForShowcase : MonoBehaviour
         {
             var dt = Time.deltaTime;
             duration -= dt;
+            if (duration < 0)
+                dt += duration;
             target.RotateAround(Vector3.zero, Vector3.up, dt * RotateSpeed);
             yield return null;
         }
