@@ -135,4 +135,18 @@ Basically there's three ways to write shader using ShaderLab.
 
 ![BlinnPhong Shader](doc/Ch9/BlinnPhong.gif)
 
-## Chapter 10: Manually Implement Lambert Lighting
+## Chapter 11: Manually Implement Lambert Lighting
+
+[Code](Project/Assets/Ch11)
+
+### Custom Lambert
+
+![Custom Lambert Shader](doc/Ch11/CustomLambert.gif)
+
+![Custom Lambert Shader Final](doc/Ch11/CustomLambertFinal.gif)
+
+### Half-Lambert
+
+![Half-Lambert Shader](doc/Ch11/HalfLambert.gif)
+
+![Half-Lambert Shader Final](doc/Ch11/HalfLambertFinal.gif)

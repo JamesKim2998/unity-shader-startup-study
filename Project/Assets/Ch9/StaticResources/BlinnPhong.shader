@@ -1,4 +1,4 @@
-﻿Shader "Custom/Lambert" {
+﻿Shader "Custom/BlinnPhong" {
 	Properties {
 		_MainTex ("Albedo (RGB)", 2D) = "white" {}
 		_SpecColor ("Specular Color", color) = (1, 1, 1, 1)
