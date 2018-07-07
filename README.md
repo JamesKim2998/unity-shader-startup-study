@@ -150,3 +150,13 @@ Basically there's three ways to write shader using ShaderLab.
 ![Half-Lambert Shader](doc/Ch11/HalfLambert.gif)
 
 ![Half-Lambert Shader Final](doc/Ch11/HalfLambertFinal.gif)
+
+## Chapter 12: Rim Light
+
+### RimLight
+
+![RimLight Shader](doc/Ch12/RimLight.gif)
+
+### Hologram
+
+![Hologram Shader](doc/Ch12/Hologram.gif)
