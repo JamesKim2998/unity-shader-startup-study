@@ -116,3 +116,23 @@ Basically there's three ways to write shader using ShaderLab.
 ### VertexColorImproved
 
 ![VertexColorImproved Shader](doc/Ch8/VertexColorImproved.gif)
+
+## Chapter 9: Lambert & Blinn Phong
+
+[Code](Project/Assets/Ch9)
+
+### Types of Digital Lights
+
+- Directional Light: Has only information like direction, intensity and color. The cheapest light.
+- Point Light: The light proceeds as sphere shape. Has heavier computational cost than directional light.
+- Spot Light: Highlights specific area. Also has heavy computational cost, so you should think about performance when use this kind of light.
+
+### Lambert
+
+![Lambert Shader](doc/Ch9/Lambert.png)
+
+### BlinnPhong
+
+![BlinnPhong Shader](doc/Ch9/BlinnPhong.gif)
+
+## Chapter 10: Manually Implement Lambert Lighting
