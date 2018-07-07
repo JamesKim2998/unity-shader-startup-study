@@ -1,6 +1,7 @@
 .idea
 
 *.sln
+*.csproj
 
 Temp
 Library

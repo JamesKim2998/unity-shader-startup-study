@@ -58,3 +58,13 @@ Basically there's three ways to write shader using ShaderLab.
 - Hard to learn, but you can manually control all the part, so it's easy to optimize and good for applying advanced technic.
 
 ## Chapter 4: Making Basic Surface Shader
+
+[Code](Project/Assets/Ch4)
+
+## Chapter 5: Manipulating Texture with Surface Shader
+
+[Code](Project/Assets/Ch5)
+
+## Chapter 6: Learn How to Use UV
+
+[Code](Project/Assets/Ch6)
