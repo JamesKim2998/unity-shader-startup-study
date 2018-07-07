@@ -174,3 +174,7 @@ Basically there's three ways to write shader using ShaderLab.
 ### BlinnPhongSpecularWithRim
 
 ![BlinnPhongSpecularWithRim Shader](doc/Ch13/BlinnPhongSpecularWithRim.gif)
+
+### FakeSpecular
+
+![FakeSpecular Shader](doc/Ch13/FakeSpecular.gif)
