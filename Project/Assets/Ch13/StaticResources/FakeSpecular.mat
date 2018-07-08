@@ -33,6 +33,6 @@ Material:
     m_Floats:
     - _Metallic: 0
     - _Smoothness: 0.7
-    - _SpecPower: 100
+    - _SpecPower: 117
     m_Colors:
     - _SpecCol: {r: 1, g: 1, b: 1, a: 1}

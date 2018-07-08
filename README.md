@@ -178,3 +178,35 @@ Basically there's three ways to write shader using ShaderLab.
 ### FakeSpecular
 
 ![FakeSpecular Shader](doc/Ch13/FakeSpecular.gif)
+
+## Chapter 14: NPR (None-Photorealistic) Rendering
+
+[Code](Project/Assets/Ch14)
+
+### Outline
+
+![Outline Shader](doc/Ch14/Outline.gif)
+
+### OutlinePattern
+
+![OutlinePattern Shader](doc/Ch14/OutlinePattern.gif)
+
+### Toon
+
+![Toon Shader](doc/Ch14/Toon.gif)
+
+### ToonWithSpecular
+
+![ToonWithSpecular Shader](doc/Ch14/ToonWithSpecular.gif)
+
+### FresnelOutline
+
+![FresnelOutline Shader](doc/Ch14/FresnelOutline.gif)
+
+### DiffuseWarping
+
+![DiffuseWarping Shader](doc/Ch14/DiffuseWarping.gif)
+
+### DiffuseWarpingAdvanced
+
+![DiffuseWarpingAdvanced Shader](doc/Ch14/DiffuseWarpingAdvanced.gif)
